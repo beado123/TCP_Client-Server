@@ -1,5 +1,5 @@
 # TCP client&server Simulator
-This is a simple TCP client&server simulator for transmitting files between computers that supports PUT, GET, DELETE, and LIST operations on client-side.
+This is a simple TCP client&server simulator for file transmissions between computers that supports PUT, GET, DELETE, and LIST operations on client-side.
 
 ## Getting Started
 Clone the repository and
