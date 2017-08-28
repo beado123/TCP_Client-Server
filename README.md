@@ -1,12 +1,8 @@
-# simple TCP client&server
-This is a simple TCP client&server for transmitting files between computers.
-
-##Client-side reference:
-
-
-
+# TCP client&server Simulator
+This is a simple TCP client&server simulator for transmitting files between computers.
 
 ## Getting Started
+Clone the repository and
 ```
 make
 ```
