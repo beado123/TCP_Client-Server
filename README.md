@@ -1,4 +1,4 @@
-# TCP client&server Simulator
+# A simple TCP client&server 
 A simple TCP client and server which creates a pipe between two computers with IPv4 or IPv6 and supports operations that are client-based such as PUT(upload a file from client to server), GET(obtain a file from server to client), DELETE(delete a file in server from client remotely), LIST(list all files from server in client).       
 
 ## Getting Started
